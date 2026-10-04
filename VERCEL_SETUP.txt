@@ -1,0 +1,1 @@
+Add Vercel Environment Variables: RAZORPAY_KEY_ID and RAZORPAY_KEY_SECRET. Never commit the secret to GitHub. Then deploy.
